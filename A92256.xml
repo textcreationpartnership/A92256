@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered for the suppressing all hackney stage-coaches and caravans and for inducing gentlemen to live upon their estates in the countrey, and weare the manufactures of England, and to restrain servants from wearing any other.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92256</idno>
+            <idno type="STC">Wing R544</idno>
+            <idno type="STC">ESTC R213451</idno>
+            <idno type="EEBO-CITATION">99899328</idno>
+            <idno type="PROQUEST">99899328</idno>
+            <idno type="VID">153281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92256)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2357:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered for the suppressing all hackney stage-coaches and caravans and for inducing gentlemen to live upon their estates in the countrey, and weare the manufactures of England, and to restrain servants from wearing any other.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coaching --  England --  Early works to 1800.</term>
+               <term>Protectionism --  England --  Early works to 1800.</term>
+               <term>England --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153281:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:153281:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:153281:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:153281:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb facs="tcp:153281:3"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="1" facs="tcp:153281:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>Reaſons Humbly offered for the ſuppreſſing all Hack<g ref="char:EOLhyphen"/>ney Stage-Coaches and Caravans, and for inducing Gentlemen to live upon their Eſtates in the Countrey, and Weare the Manu<g ref="char:EOLhyphen"/>factures of <hi>England,</hi> and to reſtrain Servants from wearing any other.</head>
+            <p>
+               <list>
+                  <item>1. <seg rend="decorInit">T</seg>Hey ſpoyle the Roads, put the Countrey to vaſt Charge to keep them in Repair, are often the occaſion of great Miſchiefs to Gentlemen that travel on Horsback, by frequent putting them out of the way, and forcing them into dangerous Holes and Rutts.</item>
+                  <item>2. They ſpoyle all Inns on the Roads, render the Ma<g ref="char:EOLhyphen"/>ſters of them incapable of making neceſſary proviſions for Travellors, or to pay their Landlords their Rents, or to give the Relief they were wont to do to the Poor, or to pay Taxes, or quarter Souldiers.</item>
+                  <item>3. They are the occaſion of the fall of Rents all over England, by hindring the con<g ref="char:EOLhyphen"/>ſumption of all ſorts of Proviſion both for Man and Beaſt.</item>
+                  <item>4. They have occaſioned the breeding of good Horſes to be neglected, and create in mankind a ſlothful and Lazy habit and diſpoſition of body, make them take no care to attain to good Horſmanſhip, a thing ſo neceſſary for all men to underſtand in order to their own and their Countryes ſervices.</item>
+                  <item>5. They have been, and are highly prejudicial to the Watermen, and have hindred the breeding of many thouſands, who otherwiſe might at this time have been fit for the ſervice of the King and Kingdome.</item>
+                  <item>6. They greatly hinder the conſumption of the Wollen, and Leather Manufactures of the Kingdome, and thereby (together with the Tranſportation of Leather) have al<g ref="char:EOLhyphen"/>ready Ruined above one hundred thouſand of Families, in the City and Countrey; ſuch as, Combers, Carders, Spinners, Knitters, and Weavers of Woollen; Fullers, Clo<g ref="char:EOLhyphen"/>thiers, Clothworkers, Drapers, Taylors, Cloth-drawers, Cordwayners, Sadlers, Trunkmakers, Girdlers, Sword Cutlers, Loriners, Inholders, Curryers, Tanners, Felt-makers, Gunſmiths, Graſiers, Butchers, Poulterers, and Farmers of Land: and if not prevented, will quickly ruine many thouſands more, whoſe families do, and muſt lye upon the ſeveral Pariſhes wherein they live to be kept; and in the mean time thoſe who ſhould maintain them, are by the fall of their Rents (occaſioned by the means a<g ref="char:EOLhyphen"/>foreſaid) reduced to ſo ſmall a yearly income as that they can hardly defray the neceſſa<g ref="char:EOLhyphen"/>ry expences of their own family.</item>
+                  <item>7. They are the occaſion of many great Robberies being committed, two or three men being able at pleaſure to ſurprize and Rob a Coach or Caravan, whereas if travellers were not ſhut up in Coaches and Caravans, but were on horſeback, they could neither be ſurpriſed nor robbed without greater force.</item>
+                  <item>8. They prevent the Conſumption of Beer and Ale upon the Roads, and thereby great<g ref="char:EOLhyphen"/>ly leſſen his Majeſties revenew of Exciſe, and by carrying multitudes of Letters, abate very much the yearly value of the Poſt Office, to the great prejudice of his Highneſs the Duke of York.</item>
+               </list>
+            </p>
+            <div type="part">
+               <pb n="2" facs="tcp:153281:4"/>
+               <!-- PDF PAGE 46 -->
+               <p>For Demonſtration, <hi>It is Humbly Offered.</hi>
+                  <lb/>
+THat a Coach with four horſes carryes ſix paſſengers, a Caravan with ſix horſes carryes 20 or 25 Paſſengers, the Coach alwayes hath one wheele in the horſe path, the Caravan horſes alwayes go in that path, whereby horſemen when ever they meet them are put out of their way, and frequently forc'd into Holes and Rutts, into which they with their horſes do fall and get hurts; Theſe Coaches and Caravans carry their paſſengers all to one Inn, where uſually they ſup together, have not above two or three diſhes of meat, yet make uſe of 6. 8. or 10. beds. They are carryed to thoſe Inns, though the worſt on the Roads, where the Coach or Cara<g ref="char:EOLhyphen"/>van men can agree for horſemeat at the loweſt price, and have their own victuals for nothing, and get the greateſt credit to run furtheſt in debt, which when they have done, (if demanded and the payment thereof preſſed) they leave the Inn, whereby the Ma<g ref="char:EOLhyphen"/>ſter of it is undone, not able to pay the Farmer for his Hay, Straw, or Corn; conſe<g ref="char:EOLhyphen"/>quently the Farmer breaks, and the Landlord loſeth his Rent. However by this means all other Inns, except where the ſaid Stage-Coaches and Caravans do lye, are without any Trade, not able to pay half the Rent they formerly paid, nor to make neceſſary pro<g ref="char:EOLhyphen"/>viſions for Gueſts, nor to pay the Taxes, quarter Souldiers, or give ſuch releif to the poor as formerly they uſed to do.</p>
+               <p>But if theſe were put down, the Conſequences as is humbly conceived, would be.</p>
+               <p n="1">1. THe Roads would be better, the Countryes charge in repairing of them leſſen<g ref="char:EOLhyphen"/>ed, and Travellers leſs incommoded.</p>
+               <p n="2">2. Every of theſe Paſſengers who travel in theſe Coaches would have a Horſe upon the road, many of them would without doubt ride with a ſervant, ſome with two or three, which now travel either without men, or with a boy only behind the Coach; by this means there would be thirty at leaſt, if not forty or fifty horſes on the road, in<g ref="char:EOLhyphen"/>ſtead of the ten which drawes the Coach or Caravan.</p>
+               <p n="3">3. Theſe Travellers would diſperſe themſelves into the ſeveral Inns on the Roads, each man where he could find beſt Accommodations, and thereby Trade would be de<g ref="char:EOLhyphen"/>fuſed, Inholders encouraged to provide Accommodations for their Gueſts, and to pay their ancient Rents unto their Landlords.</p>
+               <p n="4">4. Moſt of theſe Horſes would go to graſs in Summer time, which would greatly raiſe the Rents of Paſture Lands about great towns, which though formerly bare a great price, yet ſince theſe Coaches were ſet up, are but of little valew.</p>
+               <p n="5">5. It would occaſion the conſumption of at leaſt ten times as much Hey, Straw and Corn, that now is conſumed, whereby Farmers would have a vent for their Com<g ref="char:EOLhyphen"/>modities and raiſe money to pay their Rents, and this appears very plain if it be con<g ref="char:EOLhyphen"/>ſidered.</p>
+               <p>That not only will there be four times as many Horſes travelling upon the Roades as are now, but then in the City of <hi>London,</hi> and in all great Towns in <hi>England,</hi> there would be great numbers of good Horſes kept, not only by Merchants and other Tradeſmen and Gentlemen for their own uſes, but ſeveral, as formerly, would keep Stables of good horſes to Lett, which men may hire cheaper then they pay for their paſſage in Coaches, and by this means would a vaſt quantity of horſe<g ref="char:EOLhyphen"/>meat be conſumed.</p>
+               <p n="6">
+                  <pb n="3" facs="tcp:153281:4"/>
+                  <!-- PDF PAGE 46 -->
+6. Theſe Travellers on the Roads would have twenty diſhes of meat at leaſt, ſome of them two or three, and by this means would be conſumed Ten times the quantity of Beef, Veal, Mutton Lamb, and all ſorts of Fiſh, Foule, Poultry; and other Proviſions that is now conſumed, which will raiſe the price of them, and Gentlemens ſervants would drink Beer and Ale upon the Roads, which will help off with the Countrey Barley, and encreaſe the Revenue of Exciſe.</p>
+               <p n="7">7. All theſe Travellers (if men) muſt have Boots, Spurrs, Saddles, Bridles, Saddle and horſe cloathes; moſt of them would have Swords and Belts, Pormantues, many of them Piſtols and Holſters, and all of them good Cloaks, Coats, riding Stockings and Hats, to keep out the weather. If women, they would have ſide Saddles, or Pillions, Bridles, Safeguards and Hoods, and many other Accouterments Laced or Imbroydered wherby the makers of all theſe things (above one hundred thouſand whereof, who li<g ref="char:EOLhyphen"/>ved well, conſumed four or five joynts of meat every week in each of their Families, and releived others, but now are reduced to beggary) would be ſet at work again and provide as formerly for their Families, and help conſume the Manufacturies and Pro<g ref="char:EOLhyphen"/>viſions of the Kingdome, and prevent Forreigners growing Rich by Manufacturing Leather, one of our Staple Commodities, which till within theſe few years was Fello<g ref="char:EOLhyphen"/>ny to Tranſport; and then Forreigners, who could not be without Boots, Shoes, Sad<g ref="char:EOLhyphen"/>dles, Portmantues, Holſters, Hatcaſes, Trunks, and many other things made of Lea<g ref="char:EOLhyphen"/>ther, had them from hence Manufactured, by the making whereof, above fourſcore thouſand Handicraft Tradeſmen get livelyhoods; nor had there been any need of paſ<g ref="char:EOLhyphen"/>ſing an Act to Tranſport Leather unmanfactured, if it had not been that theſe Coaches prevented the conſumption that formerly was, of Boots, Saddles, Portmantues, Hat-caſes, <hi>&amp;c.</hi> But for want of the conſumption that formerly was, before theſe Coaches were ſet up, Hydes bare ſo ſmall a price that it was thought fit to tranſport Leather. The ſad conſequence whereof is, that all our Handicraft Tradeſmen are undone, for now Forreigners buy up the beſt of our Leather, tranſport it and manufacture it abroad, whereby they grow Rich, and will carry out nothing that is Manufactured here, ſo that we are impoveriſhed, for now inſtead of carrying out five hundred pounds worth of Leather as we did formerly, when it was Manufactured here, they now carry out but one hundred pounds worth unmanufactured and manufacture it themſelves, whereby they get four hundred pounds, which our Tradeſmen not only loſe, but for want of getting are ready to ſtarve.</p>
+               <p>And if it be true, as moſt certainly it is, that we do carry out but one hundred pounds inſtead of five hundred pounds formerly exported, and yet import five hundred pounds worth of Forraign Goods as we uſed to do, when we carryed out our Leather Manu<g ref="char:EOLhyphen"/>factured as aforeſaid; then muſt it needs follow, that we pay four hundred pounds in ready money, which formerly we paid in work, and that not only impoveriſheth our Tradeſmen, but exhauſts the Treaſure of the Kingdome, and makes not only Forrain Manufactures rich, by getting what we might earn here, but forraign Kingdomes Rich by having ſo much of our money to pay their Manufactures with. Now if theſe Coa<g ref="char:EOLhyphen"/>ches were down, Leather ſhould not need to be Tranſported unmanufactured, and then muſt Forraigners have all from <hi>England</hi> manufactured as formerly they had, inſomuch that till of late, all our old Boots, and Shoes were bought up, mended and ſent beyond Seas; but now the quite contrary, for forraigners tranſport Leather unmanufactured, Manufacture it there, and import it back when Manufactured, to almoſt the total de<g ref="char:EOLhyphen"/>ſtruction of the trade of our Engliſh Manufacturers.</p>
+               <p n="8">8. If theſe Coaches were down, all Gentlemen would be encouraged to breed good Horſes for the ſervice of the Kingdome, which may (if not in time taken care of) be wanting, great numbers being of late years tranſported beyond the Seas, and little care taken for breeding of others, becauſe Gentlemen ride little themſelves; but if they had not this effeminate kind of travelling to truſt unto, they would uſe themſelves unto riding, and take care to breed good horſes for their own uſe, and be fit and able
+<pb n="4" facs="tcp:153281:5"/>
+                  <!-- PDF PAGE 47 -->for to ſerve His Majeſty and the Kingdome, if occaſion require the ſame.</p>
+               <p>And it would prevent their ſo frequent travelling from home, whereby they would be more in the Countrey amongſt their Tenants, live and ſpend their Rents amongſt them, take off their Proviſions, we are their Manufactures, ſit at work and releive the Poor, keep the money in the countrey circulating amongſt their Tenants, that now is drawn up to <hi>London</hi> and ſpent here in gay clothes and Treats; and by this means their affairs would be more carefully manag'd, great expences prevented, the proviſion in the Countrey conſumed, and their Rents encreaſed and be well paid.</p>
+               <p n="9">9. If theſe were down, then would many thouſands of Watermen be bred, which have been hindred by Stage-Coaches, which go to every town between <hi>Graves End</hi> and <hi>Hendly,</hi> on both ſides the River, and carry thoſe Paſſengers (that before they ſet up) were Oare or S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uller fares, and ſo diſcourage the Watermen that are bred, and been the occaſion of laying aſide Barges, by bringing and carrying the Paſſengers bundles and ſmall parcels that they uſed to bring and carry.</p>
+               <p n="10">10. If theſe Coaches were down, then would thoſe Letters they carry, go by Poſt, which by computation, may raiſe that part of his Highneſs the Duke of <hi>York's</hi> Revenue 5000 <hi>l. per annum.</hi>
+               </p>
+               <p n="11">11. If theſe were down, Travellers would ride on horsback, and thereby prevent many Robberies now committed by reaſon of there being ſhut up into Coaches and Caravans, ſo that two or three men may ſurpriſe a Coach at pleaſure.</p>
+               <p n="12">12. It would prevent the Ruine of the four hundred Hackney Coachmen about the town, who are Licenced, pay five pound <hi>per annum</hi> a piece for their Licences, are under Rules, lyable to puniſhment for breach of the Law made for their government, yet are undone by thoſe who keep Stage-Coaches, they coming out in the night and taking their work from them, eat the bread out of their mouthes, and yet are not Licen<g ref="char:EOLhyphen"/>ced, nor pay any thing towards the breaking up the Streets, by which means the ſtreets are more broken and annoyed then before the Act for ſetling the number of 400. was made, when as if theſe were down, Hackney Caoches would be often hired into the Countrey, and ſo the ſtreets would be emptier of them, and not ſo much broken by them.</p>
+               <p>
+                  <hi>To conclude, there is hardly a Trade or Tradeſman that is not one way or other hurt by theſe Coaches, nor is there a Gentleman, if he truly and ſeriouſly conſider his intereſt, but is preju<g ref="char:EOLhyphen"/>diced infinitly beyond the advantage he pleaſeth himſelf with the having by travelling in theſe Coaches, conſidring that if he ſave five pound a journey once or twice a year, he by the lowe<g ref="char:EOLhyphen"/>ring the prices of commodities, hindring the conſumption of them, destroying the many trades and tradeſmen aforeſaid, hath brought down his Rents a third penny already, and if ſome remedy be not found out muſt ſpeedily abate more, and yet have his charge increaſed upon him by expences in</hi> London <hi>and mayntaining, the poor tradeſmen and their families who are ruined by means as aforeſaid, when as if theſe things were remedied, Stage-Coaches put down, and Gentlemen would live upon their Eſtates, and encourage the poor by wearing the Ma<g ref="char:EOLhyphen"/>nufacturyes of the Kingdome, and keeping good houſes, commodities would be conſumed, Rents raiſed, the charge of maintaining the poor taken off, the Handicrafts Tradeſmen be employed, and all poor ſet at work and inriched, and Foreigners growing rich by Manufacturing our Staple commodities be prevented, the Kings revenue would be encreaſed, and the ſafety of the King and Kingdome provided for; Watermen and horſes would be bred, and the Subjects would be in a capacity not only to live handſomely, but chearfully to contribute towards ray<g ref="char:EOLhyphen"/>ſing money to pay the debts and defray the charge of the Kingdome, and the Gentry will endear themſelves with their tenants and Countrymen.</hi>
+               </p>
+               <pb facs="tcp:153281:5"/>
+               <!-- PDF PAGE 47 -->
+               <pb facs="tcp:153281:6"/>
+               <!-- PDF PAGE 48 -->
+               <pb facs="tcp:153281:6"/>
+               <!-- PDF PAGE 48 -->
+               <pb facs="tcp:153281:7"/>
+               <!-- PDF PAGE 49 -->
+               <pb facs="tcp:153281:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 49 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
